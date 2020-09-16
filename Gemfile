@@ -10,4 +10,5 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.1"
 gem "jekyll-feed"
+gem "jekyll-seo-tag"
 gem "public_suffix", "~> 4.0.1"
